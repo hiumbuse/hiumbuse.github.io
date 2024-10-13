@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hiumbuse.github.io/sitemap.html.gz
+Sitemap: https://hiumbuse.github.io/app/sitemap.html.gz
+Sitemap: https://hiumbuse.github.io/assets/sitemap.html.gz
+Sitemap: https://hiumbuse.github.io/css/sitemap.html.gz
+Sitemap: https://hiumbuse.github.io/includes/sitemap.html.gz
+Sitemap: https://hiumbuse.github.io/item/sitemap.html.gz
+Sitemap: https://hiumbuse.github.io/src/sitemap.html.gz
